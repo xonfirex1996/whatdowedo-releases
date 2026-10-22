@@ -24,6 +24,10 @@ Descarga [WhatDoWeDo-Android.apk](https://github.com/xonfirex1996/whatdowedo-rel
 Instálalo encima de la versión anterior para conservar tus ajustes y personaje.
 Las copias antiguas sin actualizador necesitan instalar un APK compatible una vez.
 
+Si **Instalar APK** no responde en la 0.1.24 o una versión anterior, descarga
+el APK del enlace de arriba y ábrelo desde Descargas para instalarlo manualmente
+una vez, sin desinstalar el juego. El actualizador está corregido desde la 0.1.25.
+
 Desde el menú, **Versión → Buscar → Descargar → Instalar APK** permite actualizar.
 Android pedirá permitir instalaciones desde el juego la primera vez y confirmar
 cada instalación. Si cancelas, podrás reintentar con la descarga verificada.
